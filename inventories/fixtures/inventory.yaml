@@ -1,0 +1,31 @@
+- model: inventories.inventory
+  pk: 1
+  fields:
+    name: Laptop HP Pavilion
+    modeling: B0909
+    stock: 50
+    company: 1
+- model: inventories.inventory
+  pk: 2
+  fields:
+    name: iMac
+    modeling: 8787
+    stock: 30
+    company: 1
+- model: inventories.inventory
+  pk: 3
+  fields:
+    name: Samsung Smartphone
+    modeling: X009
+    stock: 20
+    company: 1
+- model: inventories.inventory
+  pk: 4
+  fields:
+    name: Dell Monitor 21 inc
+    modeling: LCD008
+    stock: 90
+    company: 1
+
+
+

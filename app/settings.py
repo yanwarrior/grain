@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'companies.apps.CompaniesConfig',
     'users.apps.UsersConfig',
+    'inventories.apps.InventoriesConfig',
 ]
 
 

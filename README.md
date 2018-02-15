@@ -27,7 +27,7 @@ $ python manage.py loaddata company.yaml division.yaml user.yaml employee.yaml i
 ## Licence (MIT)
 
 ```
-Copyright <YEAR> <COPYRIGHT HOLDER>
+Copyright 2018 Localbin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in

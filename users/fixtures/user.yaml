@@ -1,0 +1,60 @@
+- model: auth.user
+  pk: 1
+  fields:
+    username: firdaamelia
+    password: password1234
+    email: firdaamelia@staff.gramedia.com
+    first_name: Firda
+    last_name: Amelia
+    is_staff: true
+    is_active: true
+- model: auth.user
+  pk: 2
+  fields:
+    username: rully
+    password: password1234
+    email: rully@staff.gramedia.com
+    first_name: Rully
+    last_name: Pratama
+    is_staff: true
+    is_active: true
+- model: auth.user
+  pk: 3
+  fields:
+    username: ahmadstafrudin
+    password: password1234
+    email: ahmadsyafrudin@staff.gramedia.com
+    first_name: Ahmad
+    last_name: Syafrudin
+    is_staff: true
+    is_active: true
+- model: auth.user
+  pk: 4
+  fields:
+    username: titaniaw
+    password: password1234
+    email: titaniaw@staff.gramedia.com
+    first_name: Tita
+    last_name: Niaw
+    is_staff: true
+    is_active: true
+- model: auth.user
+  pk: 5
+  fields:
+    username: yanwarsolah
+    password: password1234
+    email: yanwar@staff.gramedia.com
+    first_name: Yanwar
+    last_name: Solahudin
+    is_staff: true
+    is_active: true
+- model: auth.user
+  pk: 6
+  fields:
+    username: timami
+    password: password1234
+    email: timami@staff.gramedia.com
+    first_name: Timami
+    last_name: Yestya Pramesti
+    is_staff: true
+    is_active: true

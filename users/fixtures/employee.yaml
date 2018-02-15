@@ -1,0 +1,36 @@
+- model: users.employee
+  pk: 1
+  fields:
+    nik: 10000
+    division: 3
+    user: 1
+- model: users.employee
+  pk: 2
+  fields:
+    nik: 10001
+    division: 1
+    user: 2
+- model: users.employee
+  pk: 3
+  fields:
+    nik: 10002
+    division: 1
+    user: 3
+- model: users.employee
+  pk: 4
+  fields:
+    nik: 10003
+    division: 2
+    user: 4
+- model: users.employee
+  pk: 5
+  fields:
+    nik: 10004
+    division: 1
+    user: 5
+- model: users.employee
+  pk: 6
+  fields:
+    nik: 10005
+    division: 2
+    user: 6

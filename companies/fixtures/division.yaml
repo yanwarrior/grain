@@ -1,0 +1,18 @@
+- model: companies.division
+  pk: 1
+  fields:
+    name: Engineer
+    description: Engineer lorem ipsum
+    company: 1
+- model: companies.division
+  pk: 2
+  fields:
+    name: Human Resources
+    description: Human Resources lorem ipsum
+    company: 1
+- model: companies.division
+  pk: 3
+  fields:
+    name: Social Media
+    description: Social Media lorem ipsum
+    company: 1

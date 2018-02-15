@@ -1,0 +1,5 @@
+- model: companies.company
+  pk: 1
+  fields:
+    name: PT. Gramedia Digital Nusantara
+    description: Lorem ipsum dolor sit amet GDN

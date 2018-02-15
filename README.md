@@ -18,10 +18,7 @@ $ python manage.py test
 ## Load Initial Data
 For sampling the initial data (rather than entering one by one from the database), you only need to run:
 ```
-$ python manage.py loaddata company.yaml
-$ python manage.py loaddata division.yaml
-$ python manage.py loaddata user.yaml
-$ python manage.py loaddata employee.yaml
+$ python manage.py loaddata company.yaml division.yaml user.yaml employee.yaml invenory.yaml
 ```
 
 ## Credits
